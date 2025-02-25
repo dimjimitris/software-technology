@@ -1,10 +1,10 @@
-# Software Engineering Project 2022-2023
+# IntelliQ
 
 #### __Group__
 SoftEng2022-01
 #### __Members__
-* el19005 - Δημήτριος Γεωργούσης
-* el19062 - Γεώργιος-Αλέξιος Καπετανάκης
+* Dimitrios Georgousis
+* George Kapetanakis
 
 ## Description
 The project consists of the following parts:
